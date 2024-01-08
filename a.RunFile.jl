@@ -1,4 +1,4 @@
-println("Hello World!")#RUN FILE
+println("Ciao")#RUN FILE
 
 # Calls the Packages used for the optimization problem
 using JuMP
